@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ch02_FilterStream/Ch02_FilterStream.iml" filepath="$PROJECT_DIR$/Ch02_FilterStream/Ch02_FilterStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch02_InputStream/Ch02_InputStream.iml" filepath="$PROJECT_DIR$/Ch02_InputStream/Ch02_InputStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ch02_Stream/Ch02_Stream.iml" filepath="$PROJECT_DIR$/Ch02_Stream/Ch02_Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA_Network_Programming.iml" filepath="$PROJECT_DIR$/JAVA_Network_Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch00_File_System/ch00_File_System.iml" filepath="$PROJECT_DIR$/ch00_File_System/ch00_File_System.iml" />
